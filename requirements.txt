@@ -1,0 +1,9 @@
+transformers 
+torch
+git+https://github.com/huggingface/transformers@v4.49.0-Gemma-3
+gradio
+matplotlib
+plotly 
+networkx 
+kaleido
+python-dotenv
